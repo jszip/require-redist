@@ -25,7 +25,7 @@
 
   <groupId>org.jszip.redist</groupId>
   <artifactId>require</artifactId>
-  <version>2.1.5-SNAPSHOT</version>
+  <version>2.1.5</version>
   <packaging>jszip</packaging>
 
   <name>RequireJS</name>
@@ -52,7 +52,7 @@
     <connection>scm:git:git://github.com/jszip/require-redist.git</connection>
     <developerConnection>scm:git:git@github.com:jszip/require-redist.git</developerConnection>
     <url>http://github.com/jszip/require-redist/tree/master/</url>
-    <tag>HEAD</tag>
+    <tag>require-2.1.5</tag>
   </scm>
   <issueManagement>
     <system>github</system>
